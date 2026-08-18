@@ -5,11 +5,11 @@
 Me chamo Marcos de Carvalho Castilho, tenho 24 anos e sou natural de Manaus. Concluí o ensino superior na UNINORTE, com o curso tecnólogo em Logística. E concluí meu MBA em Engenharia de Software pela UNIP. Sou apaixonado por tecnologia, por este motivo atualmente estou cursando Análise, proteção e Desenvolvimento de dados pela Fundação Bradesco. Visite o meu Linkedin "[Marcos Castilho](https://www.linkedin.com/in/marcos-castilho)".
 
 <p align="left">
-    <a href="https://github.com/Marcoscastilhodev-coder?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Marcoscastilho?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/marcoscastilhodev-coder?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/marcoscastilho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/marcoscastilhodev-coder?tab=followers">
