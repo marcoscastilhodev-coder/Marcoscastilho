@@ -107,16 +107,8 @@ Me chamo Marcos de Carvalho Castilho, tenho 24 anos e sou natural de Manaus. Con
 />
 <img 
     align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PowerBI" 
-    title="PowerBI"
+    alt="Laravel" 
+    title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
