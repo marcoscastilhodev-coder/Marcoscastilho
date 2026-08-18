@@ -1,9 +1,10 @@
-# Marcos Castilho
+# 👨🏼‍💻 Marcos Castilho
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Marcos de Carvalho Castilho, tenho 24 anos e sou natural de Manaus. Concluí o ensino superior na UNINORTE, com o curso tecnólogo em Logística. E concluí meu MBA em Engenharia de Software pela UNIP. Sou apaixonado por tecnologia, por este motivo atualmente estou cursando Análise, proteção e Desenvolvimento de dados pela Fundação Bradesco.
+Me chamo Marcos de Carvalho Castilho, tenho 24 anos e sou natural de Manaus. Concluí o ensino superior na UNINORTE, com o curso tecnólogo em Logística. E concluí meu MBA em Engenharia de Software pela UNIP. Sou apaixonado por tecnologia, por este motivo atualmente estou cursando Análise, proteção e Desenvolvimento de dados pela Fundação Bradesco. Visite o meu Linkedin "[Marcos Castilho](https://www.linkedin.com/in/marcos-castilho)".
 
+<p align="left">
     <a href="https://github.com/Marcoscastilhodev-coder?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -106,8 +107,16 @@ Me chamo Marcos de Carvalho Castilho, tenho 24 anos e sou natural de Manaus. Con
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
